@@ -4073,8 +4073,7 @@ void intro_message(bool colon)
     "────────────────────────────────────────────",
     N_("type  :help news<Enter>     for v%s.%s notes "),
     "────────────────────────────────────────────",
-    N_("Help poor children in Uganda!"),
-    N_("type  :help Kuwasha<Enter>  for information "),
+    N_("Help poor polar bear in Arctic!"),
   };
 
   // blanklines = screen height - # message lines
